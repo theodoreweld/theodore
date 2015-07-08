@@ -54,3 +54,5 @@
         ' Code that runs on application requests
 
     End Sub
+    
+</script>
